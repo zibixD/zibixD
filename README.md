@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zibixd&label=Profile%20views&color=0e75b6&style=flat" alt="zibixd" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **Adrianplasek@wp.pl**
 
